@@ -15,6 +15,6 @@ for (let i = 0; i < elements.length; i++) {
 }
 ```
 
-Right click on the page once you are inside the DAZN channel and click on `Inspect` to open the browser console.
-Copy and paste the code inside the console and hit enter.
-The first part of the code removes the thumbnails and the second part removes the revealing part of titles (before `|`)
+Right click on the page once you are inside the DAZN channel and click on `Inspect` to open the browser console.<br />
+Copy and paste the code inside the console and hit enter.<br />
+The first part of the code removes the thumbnails and the second part removes the revealing part of titles (before `|`)<br />
