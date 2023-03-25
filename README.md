@@ -14,3 +14,5 @@ for (let i = 0; i < elements.length; i++) {
   elements[i].innerHTML = myArray[1];
 }
 ```
+
+To open the browser console, right click on the page and click on `Inspect`
