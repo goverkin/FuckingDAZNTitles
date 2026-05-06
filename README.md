@@ -20,7 +20,3 @@ Copy and paste the code inside the console and hit enter.<br />
 The first part of the code removes the thumbnails and the second part removes the revealing part of titles (before `|`)<br />
 
 
-<a href="acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565"> click </a>
-
-<a href="https://google.com"> gg </a>
-
