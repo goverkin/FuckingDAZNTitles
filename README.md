@@ -21,3 +21,6 @@ The first part of the code removes the thumbnails and the second part removes th
 
 
 <a href="acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565"> click </a>
+
+<a href="https://google.com"> gg </a>
+
